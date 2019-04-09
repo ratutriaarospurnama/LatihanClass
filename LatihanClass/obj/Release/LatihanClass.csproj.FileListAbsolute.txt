@@ -1,0 +1,6 @@
+D:\18.11.2336\Class and Object\LatihanClass\LatihanClass\LatihanClass\bin\Release\LatihanClass.exe.config
+D:\18.11.2336\Class and Object\LatihanClass\LatihanClass\LatihanClass\bin\Release\LatihanClass.exe
+D:\18.11.2336\Class and Object\LatihanClass\LatihanClass\LatihanClass\bin\Release\LatihanClass.pdb
+D:\18.11.2336\Class and Object\LatihanClass\LatihanClass\LatihanClass\obj\Release\LatihanClass.csproj.CoreCompileInputs.cache
+D:\18.11.2336\Class and Object\LatihanClass\LatihanClass\LatihanClass\obj\Release\LatihanClass.exe
+D:\18.11.2336\Class and Object\LatihanClass\LatihanClass\LatihanClass\obj\Release\LatihanClass.pdb
